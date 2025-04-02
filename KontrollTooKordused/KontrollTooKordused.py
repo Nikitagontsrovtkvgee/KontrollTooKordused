@@ -46,6 +46,7 @@ average = sum(marks) / len(marks) if marks else 0
 
 print(f"Оценки учеников: {marks}")
 print(f"Средняя оценка: {average:.2f}")
+
 #4
 age = 1
 gift = 1
